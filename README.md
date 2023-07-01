@@ -6,4 +6,4 @@
   - [osTicket: Post-Installation Configuration](https://github.com/ashtvanf/osTicket-post-install-config/blob/main/README.md)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/ashtvanf/OsTicket-Ticket-Lifecycle-Examples/blob/main/README.md)
 - <b>Microsoft Azure</b>
-  - [Configuring Resource Groups and Virtual Machines]()
+  - [Configuring Resource Groups and Virtual Machines](https://github.com/ashtvanf/Configuring-Resource-Groups-and-VMs/blob/main/README.md)
